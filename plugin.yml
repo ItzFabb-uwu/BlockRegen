@@ -1,0 +1,5 @@
+name: BlockRegen
+version: 0.1
+main: ItzFabb\BlockRegen\Main
+api: ["3", "4"]
+author: ItzFabb
