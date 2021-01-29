@@ -4,6 +4,7 @@ namespace ItzFabb\BlockRegen;
 
 use pocketmine\block\Block;
 use pocketmine\scheduler\Task;
+use ItzFabb\BlockRegen\Main;
 
 class DelayTask extends Task {
 
